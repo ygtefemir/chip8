@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 fastrand = "2.5.0"
+minifb = "0.28.0"
+rodio = "0.22.2"
