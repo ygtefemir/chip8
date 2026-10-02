@@ -25,11 +25,11 @@ Verified against roms in roms directory which provided from [Timendus's Chip8 Te
 ## Controls
 The 16 key CHIP-8 keypad is mapped to the top-left block of the keyboard.
 
-chip8          keyboard
-1 2 3 C        1 2 3 4
-4 5 6 D  ->    Q W E R
-7 8 9 E        A S D F
-A 0 B F        Z X C V
+|chip8|          |keyboard|
+|1 2 3 C|        |1 2 3 4|
+|4 5 6 D|  ->    |Q W E R|
+|7 8 9 E|        |A S D F|
+|A 0 B F|        |Z X C V|
 
 ## Running
 ```
